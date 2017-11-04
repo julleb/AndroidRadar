@@ -1,4 +1,4 @@
 # AndroidRadar
 
 
-![alt tag](http://www.rickardlarsson.me/img/agenda/start.png)
+![alt tag](https://raw.githubusercontent.com/julleb/AndroidRadar/master/pic.jpg)
